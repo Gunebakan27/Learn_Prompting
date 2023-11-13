@@ -51,6 +51,7 @@ to an AI, it can likely either do it for you or at least give you a starting poi
 
 ## How do I get started?
 
+You can start with registration to CahtGPT.
 This course will teach you how to communicate with AIs. 
 Read the rest of this chapter, then check out other chapters that interest you.
 In particular, the applied prompting section may be of interest if you would like
